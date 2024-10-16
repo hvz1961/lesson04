@@ -6,5 +6,8 @@ for i in range(10):
 
 if a < b:
     print('а меньше в')
+
+elif a > b:
+    print('а больше в')
     
 
