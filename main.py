@@ -9,5 +9,6 @@ if a < b:
 
 elif a > b:
     print('а больше в')
-    
 
+else:
+    print('а равно в')
