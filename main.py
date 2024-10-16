@@ -1,8 +1,7 @@
-a = 7 # создание переменной
-b = 9 # создание переменной
+for i in range(8):
+    print('слово')
 
-for i in range(10):
-    print(f'i = {i}')
+a, b = 9, 8
 
 if a < b:
     print('а меньше в')
